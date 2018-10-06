@@ -1,16 +1,27 @@
 {
-  "name": "littledb",
+  "name": "fiat-bad-bank-thomaz",
   "version": "1.0.0",
-  "description": "lowdb sample for 1.125",
+  "description": "1.125 course assignment",
   "main": "index.js",
+  "dependencies": {
+    "currency-formatter": "^1.5.3",
+    "dateformat": "^3.0.3",
+    "express": "^4.16.3",
+    "lowdb": "^1.0.0",
+    "tabular-json": "^0.1.3"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "abel@mit.edu",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomaznas/badbank.git"
+  },
+  "author": "Thomaz",
   "license": "MIT",
-  "dependencies": {
-    "cors": "^2.8.4",
-    "express": "^4.16.3",
-    "lowdb": "^1.0.0"
-  }
+  "bugs": {
+    "url": "https://github.com/thomaznas/badbank/issues"
+  },
+  "homepage": "https://github.com/thomaznas/badbank#readme"
 }

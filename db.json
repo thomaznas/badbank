@@ -1,0 +1,73 @@
+{
+  "accounts": [
+    {
+      "name": "THOMAZ",
+      "email": "THOMAZ@MIT.EDU",
+      "balance": 2454.98,
+      "password": "xx",
+      "transactions": [
+        {
+          "DataTime": "2018-10-05, 9:08:52 PM",
+          "Description": "First deposit",
+          "Amount": "$2,500.89"
+        },
+        {
+          "DataTime": "2018-10-05, 9:09:15 PM",
+          "Description": "Withdraw",
+          "Amount": "-$45.91"
+        }
+      ]
+    },
+    {
+      "name": "BERNARDO",
+      "email": "BERNARDO@MIT.EDU",
+      "balance": 0,
+      "password": "xx",
+      "transactions": null
+    },
+    {
+      "name": "ABEL",
+      "email": "ABEL@MIT.EDU",
+      "balance": 10000.01,
+      "password": "xyz",
+      "transactions": [
+        {
+          "DataTime": "2018-10-05, 9:10:45 PM",
+          "Description": "-",
+          "Amount": "$10,000.01"
+        }
+      ]
+    },
+    {
+      "name": "JOHN",
+      "email": "JOHN@MIT.EDU",
+      "balance": 35000,
+      "password": "abc",
+      "transactions": [
+        {
+          "DataTime": "2018-10-05, 9:11:53 PM",
+          "Description": "NA",
+          "Amount": "$35,000.00"
+        }
+      ]
+    },
+    {
+      "name": "PUSHPITA",
+      "email": "PUSHPITA@MIT.EDU",
+      "balance": 10705,
+      "password": "aa",
+      "transactions": [
+        {
+          "DataTime": "2018-10-05, 9:13:12 PM",
+          "Description": "-",
+          "Amount": "$13,050.00"
+        },
+        {
+          "DataTime": "2018-10-05, 9:13:49 PM",
+          "Description": "-",
+          "Amount": "-$2,345.00"
+        }
+      ]
+    }
+  ]
+}
